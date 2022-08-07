@@ -20,7 +20,6 @@ def run():
     return
   files = {
     'hebi.bash':None,
-    # 'fuck':None,
     'hebi_config.json':None
   }
   has_errors = False
