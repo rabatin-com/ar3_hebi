@@ -1,3 +1,4 @@
+ar3-hebi @ file:///home/arthur/Projects/ar3_hebi/dist/ar3_hebi-0.1-py3-none-any.whl
 build==0.8.0
 packaging==21.3
 pep517==0.13.0

@@ -24,6 +24,5 @@ rm -rf ar3_hebi.egg-info
 pip freeze > requirements.txt
 python3 -m pip install --upgrade build
 python3 -m build
-python3 setup.py bdist
 
 remove_version_info

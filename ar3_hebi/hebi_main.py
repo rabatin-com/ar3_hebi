@@ -17,7 +17,7 @@ import ar3_hebi.hebi_lib
 import ar3_hebi.hebi_helper
 from ar3_hebi.hebi_lib import activate_on_linux
 
-VERSION = '1.0'
+VERSION = '0.1'
 
 configfilelocations_searchlist = [Path('.'), Path('~/.venv'), Path('~/.ar3_hebi'), Path('~'),
                        Path('~/bin')]
